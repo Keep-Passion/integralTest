@@ -1,0 +1,2 @@
+D:\Coding_Test\Visual Studio 2015\Winform\integralTest\Arm_tyshkj_design\bin\x64\Debug\Arm_tyshkj_design.exe.config
+D:\Coding_Test\Visual Studio 2015\Winform\integralTest\Arm_tyshkj_design\obj\x64\Debug\Arm_tyshkj_design.csproj.ResolveComReference.cache

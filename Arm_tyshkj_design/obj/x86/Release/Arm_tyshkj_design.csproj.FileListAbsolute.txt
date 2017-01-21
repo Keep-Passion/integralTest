@@ -1,0 +1,188 @@
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.pdb
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.InstrDetectPage.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.WelcomePage.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.Properties.Resources.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csproj.GenerateResource.Cache
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.exe
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.pdb
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csprojResolveAssemblyReference.cache
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe.config
+D:\Coding_Test\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe.config
+D:\Coding_Test\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.exe
+D:\Coding_Test\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.pdb
+D:\Coding_Test\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe
+D:\Coding_Test\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.pdb
+D:\Coding_Test\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csprojResolveAssemblyReference.cache
+D:\Coding_Test\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.HarTestPage.resources
+D:\Coding_Test\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.InstrDetectPage.resources
+D:\Coding_Test\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.WelcomePage.resources
+D:\Coding_Test\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.Properties.Resources.resources
+D:\Coding_Test\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csproj.GenerateResource.Cache
+D:\Coding_Test\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.testSerialPort.resources
+G:\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe.config
+G:\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.exe
+G:\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.pdb
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.testSerialPort.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeClient.resources
+D:\VSWorkspace\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe.config
+D:\VSWorkspace\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.exe
+D:\VSWorkspace\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.pdb
+D:\VSWorkspace\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe
+D:\VSWorkspace\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.pdb
+D:\VSWorkspace\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csprojResolveAssemblyReference.cache
+D:\VSWorkspace\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeClient.resources
+D:\VSWorkspace\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.InstrDetectPage.resources
+D:\VSWorkspace\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.testSerialPort.resources
+D:\VSWorkspace\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.WelcomePage.resources
+D:\VSWorkspace\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.Properties.Resources.resources
+D:\VSWorkspace\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csproj.GenerateResource.Cache
+D:\VSWorkspace\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeManu.resources
+D:\VSWorkspace\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeProduct.resources
+D:\VSWorkspace\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.CustomerMangementPageTest.resources
+D:\VSWorkspace\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ProductDetailPage.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.0沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe.config
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.0沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.exe
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.0沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.pdb
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.0沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.0沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.pdb
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.0沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csprojResolveAssemblyReference.cache
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.0沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeClient.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.0沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeManu.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.0沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeProduct.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.0沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.CustomerMangementPageTest.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.0沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.InstrDetectPage.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.0沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ProductDetailPage.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.0沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.testSerialPort.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.0沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.WelcomePage.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.0沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.Properties.Resources.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.0沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csproj.GenerateResource.Cache
+C:\Users\AniChikage\Desktop\V2.1沈冰洋\V2.1沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe.config
+C:\Users\AniChikage\Desktop\V2.1沈冰洋\V2.1沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.exe
+C:\Users\AniChikage\Desktop\V2.1沈冰洋\V2.1沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.pdb
+C:\Users\AniChikage\Desktop\V2.1沈冰洋\V2.1沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe
+C:\Users\AniChikage\Desktop\V2.1沈冰洋\V2.1沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.pdb
+C:\Users\AniChikage\Desktop\V2.1沈冰洋\V2.1沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csprojResolveAssemblyReference.cache
+C:\Users\AniChikage\Desktop\V2.1沈冰洋\V2.1沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeClient.resources
+C:\Users\AniChikage\Desktop\V2.1沈冰洋\V2.1沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeManu.resources
+C:\Users\AniChikage\Desktop\V2.1沈冰洋\V2.1沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeProduct.resources
+C:\Users\AniChikage\Desktop\V2.1沈冰洋\V2.1沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.CustomerMangementPageTest.resources
+C:\Users\AniChikage\Desktop\V2.1沈冰洋\V2.1沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.InstrDetectPage.resources
+C:\Users\AniChikage\Desktop\V2.1沈冰洋\V2.1沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ProductDetailPage.resources
+C:\Users\AniChikage\Desktop\V2.1沈冰洋\V2.1沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.testSerialPort.resources
+C:\Users\AniChikage\Desktop\V2.1沈冰洋\V2.1沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.WelcomePage.resources
+C:\Users\AniChikage\Desktop\V2.1沈冰洋\V2.1沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.Properties.Resources.resources
+C:\Users\AniChikage\Desktop\V2.1沈冰洋\V2.1沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csproj.GenerateResource.Cache
+C:\Users\AniChikage\Desktop\V2.1沈冰洋\V2.1沈冰洋\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csproj.ResolveComReference.cache
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe.config
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csproj.ResolveComReference.cache
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.exe
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.pdb
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.pdb
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csprojResolveAssemblyReference.cache
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeClient.resources
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeManu.resources
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeProduct.resources
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.CustomerMangementPageTest.resources
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.InstrDetectPage.resources
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ProductDetailPage.resources
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.testSerialPort.resources
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.WelcomePage.resources
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.Properties.Resources.resources
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csproj.GenerateResource.Cache
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.defpro.resources
+E:\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe.config
+E:\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csproj.ResolveComReference.cache
+E:\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.exe
+E:\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.pdb
+E:\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe
+E:\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.pdb
+E:\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csprojResolveAssemblyReference.cache
+E:\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeClient.resources
+E:\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeManu.resources
+E:\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeProduct.resources
+E:\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.CustomerMangementPageTest.resources
+E:\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.defpro.resources
+E:\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.InstrDetectPage.resources
+E:\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ProductDetailPage.resources
+E:\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.testSerialPort.resources
+E:\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.WelcomePage.resources
+E:\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.Properties.Resources.resources
+E:\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csproj.GenerateResource.Cache
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe.config
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csproj.ResolveComReference.cache
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.exe
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.pdb
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.pdb
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csprojResolveAssemblyReference.cache
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeClient.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeManu.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeProduct.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.CustomerMangementPageTest.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.defpro.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.InstrDetectPage.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ProductDetailPage.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.testSerialPort.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.WelcomePage.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.Properties.Resources.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csproj.GenerateResource.Cache
+C:\Users\AniChikage\Desktop\V2.3沈冰阳BUG修正\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe.config
+C:\Users\AniChikage\Desktop\V2.3沈冰阳BUG修正\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csproj.ResolveComReference.cache
+C:\Users\AniChikage\Desktop\V2.3沈冰阳BUG修正\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.exe
+C:\Users\AniChikage\Desktop\V2.3沈冰阳BUG修正\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.pdb
+C:\Users\AniChikage\Desktop\V2.3沈冰阳BUG修正\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe
+C:\Users\AniChikage\Desktop\V2.3沈冰阳BUG修正\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.pdb
+C:\Users\AniChikage\Desktop\V2.3沈冰阳BUG修正\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csprojResolveAssemblyReference.cache
+C:\Users\AniChikage\Desktop\V2.3沈冰阳BUG修正\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeClient.resources
+C:\Users\AniChikage\Desktop\V2.3沈冰阳BUG修正\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeManu.resources
+C:\Users\AniChikage\Desktop\V2.3沈冰阳BUG修正\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeProduct.resources
+C:\Users\AniChikage\Desktop\V2.3沈冰阳BUG修正\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.CustomerMangementPageTest.resources
+C:\Users\AniChikage\Desktop\V2.3沈冰阳BUG修正\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.defpro.resources
+C:\Users\AniChikage\Desktop\V2.3沈冰阳BUG修正\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.InstrDetectPage.resources
+C:\Users\AniChikage\Desktop\V2.3沈冰阳BUG修正\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ProductDetailPage.resources
+C:\Users\AniChikage\Desktop\V2.3沈冰阳BUG修正\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.testSerialPort.resources
+C:\Users\AniChikage\Desktop\V2.3沈冰阳BUG修正\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.WelcomePage.resources
+C:\Users\AniChikage\Desktop\V2.3沈冰阳BUG修正\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.Properties.Resources.resources
+C:\Users\AniChikage\Desktop\V2.3沈冰阳BUG修正\V2.3沈冰阳BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csproj.GenerateResource.Cache
+C:\Users\AniChikage\Desktop\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe.config
+C:\Users\AniChikage\Desktop\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csproj.ResolveComReference.cache
+C:\Users\AniChikage\Desktop\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.exe
+C:\Users\AniChikage\Desktop\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.pdb
+C:\Users\AniChikage\Desktop\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe
+C:\Users\AniChikage\Desktop\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.pdb
+C:\Users\AniChikage\Desktop\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csprojResolveAssemblyReference.cache
+C:\Users\AniChikage\Desktop\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeClient.resources
+C:\Users\AniChikage\Desktop\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeManu.resources
+C:\Users\AniChikage\Desktop\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeProduct.resources
+C:\Users\AniChikage\Desktop\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.CustomerMangementPageTest.resources
+C:\Users\AniChikage\Desktop\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.defpro.resources
+C:\Users\AniChikage\Desktop\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.InstrDetectPage.resources
+C:\Users\AniChikage\Desktop\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ProductDetailPage.resources
+C:\Users\AniChikage\Desktop\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.testSerialPort.resources
+C:\Users\AniChikage\Desktop\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.WelcomePage.resources
+C:\Users\AniChikage\Desktop\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.Properties.Resources.resources
+C:\Users\AniChikage\Desktop\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csproj.GenerateResource.Cache
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe.config
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csproj.ResolveComReference.cache
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.exe
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.pdb
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.pdb
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csprojResolveAssemblyReference.cache
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeClient.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeManu.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ChangeProduct.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.CustomerMangementPageTest.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.defpro.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.InstrDetectPage.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.ProductDetailPage.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.testSerialPort.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.WelcomePage.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.Properties.Resources.resources
+D:\Coding_Test\Visual Studio 2010\Winform\Arm_tyshkj_design\V2.4韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csproj.GenerateResource.Cache
+D:\Coding_Test\Visual Studio 2015\Winform\Arm_tyshkj_design\V2.5韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\bin\Release\Arm_tyshkj_design.exe.config
+D:\Coding_Test\Visual Studio 2015\Winform\Arm_tyshkj_design\V2.5韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.csproj.ResolveComReference.cache
+D:\Coding_Test\Visual Studio 2015\Winform\Arm_tyshkj_design\V2.5韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.exe
+D:\Coding_Test\Visual Studio 2015\Winform\Arm_tyshkj_design\V2.5韩志帅BUG修正\Arm_tyshkj_design\Arm_tyshkj_design\obj\x86\Release\Arm_tyshkj_design.pdb

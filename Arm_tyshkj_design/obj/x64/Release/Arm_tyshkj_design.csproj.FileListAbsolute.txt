@@ -1,0 +1,16 @@
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\bin\x64\Release\Arm_tyshkj_design.exe.config
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x64\Release\Arm_tyshkj_design.csproj.ResolveComReference.cache
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\bin\x64\Release\Arm_tyshkj_design.exe
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\bin\x64\Release\Arm_tyshkj_design.pdb
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x64\Release\Arm_tyshkj_design.ChangeClient.resources
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x64\Release\Arm_tyshkj_design.ChangeManu.resources
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x64\Release\Arm_tyshkj_design.ChangeProduct.resources
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x64\Release\Arm_tyshkj_design.CustomerMangementPageTest.resources
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x64\Release\Arm_tyshkj_design.InstrDetectPage.resources
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x64\Release\Arm_tyshkj_design.ProductDetailPage.resources
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x64\Release\Arm_tyshkj_design.testSerialPort.resources
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x64\Release\Arm_tyshkj_design.WelcomePage.resources
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x64\Release\Arm_tyshkj_design.Properties.Resources.resources
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x64\Release\Arm_tyshkj_design.csproj.GenerateResource.Cache
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x64\Release\Arm_tyshkj_design.exe
+C:\Users\AniChikage\Desktop\V2.2韩志帅\Arm_tyshkj_design\Arm_tyshkj_design\obj\x64\Release\Arm_tyshkj_design.pdb

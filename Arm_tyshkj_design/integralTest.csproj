@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FC346972-6AA7-4D38-A4DD-278B8169BAEE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Arm_tyshkj_design</RootNamespace>
+    <AssemblyName>Arm_tyshkj_design</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>E:\Downloads\Microsoft.Office.11.0.Object.Library\Microsoft.Office.11.0.Object.Library\Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChangeManu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeManu.Designer.cs">
+      <DependentUpon>ChangeManu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeProduct.Designer.cs">
+      <DependentUpon>ChangeProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerMangementPageTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerMangementPageTest.Designer.cs">
+      <DependentUpon>CustomerMangementPageTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBProvider.cs" />
+    <Compile Include="ChangeClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeClient.Designer.cs">
+      <DependentUpon>ChangeClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="defpro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="defpro.Designer.cs">
+      <DependentUpon>defpro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InstrDetectPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InstrDetectPage.Designer.cs">
+      <DependentUpon>InstrDetectPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductDetailPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductDetailPage.Designer.cs">
+      <DependentUpon>ProductDetailPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report.cs" />
+    <Compile Include="testSerialPort.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="testSerialPort.Designer.cs">
+      <DependentUpon>testSerialPort.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Validator.cs" />
+    <Compile Include="WelcomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WelcomePage.Designer.cs">
+      <DependentUpon>WelcomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ChangeClient.resx">
+      <DependentUpon>ChangeClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeManu.resx">
+      <DependentUpon>ChangeManu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeProduct.resx">
+      <DependentUpon>ChangeProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerMangementPageTest.resx">
+      <DependentUpon>CustomerMangementPageTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="defpro.resx">
+      <DependentUpon>defpro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InstrDetectPage.resx">
+      <DependentUpon>InstrDetectPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductDetailPage.resx">
+      <DependentUpon>ProductDetailPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="testSerialPort.resx">
+      <DependentUpon>testSerialPort.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WelcomePage.resx">
+      <DependentUpon>WelcomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
